@@ -1,4 +1,4 @@
-<h1>Prazer me chamo Harthur Henrique</h1>
+<h1>Prazer, me chamo Harthur Henrique</h1>
 
  - Desenvolvedor backend
  - Aprendendo Sistemal Operacional Linux
